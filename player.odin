@@ -43,7 +43,3 @@ updatePlayer :: proc(p: ^Player) {
         player.grounded = true;
     }
 }
-
-playerCollideBush :: proc() {
-    
-}
